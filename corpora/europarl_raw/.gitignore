@@ -1,0 +1,4 @@
+# Individual text files.
+*.en
+# Single, concatenated text file.
+all.txt

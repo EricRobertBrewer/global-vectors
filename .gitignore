@@ -1,6 +1,7 @@
-*.vocab
-*.center
-*.context
+# Ignore generated vocabulary and embeddings files.
+**/*.vocab
+**/*.center
+**/*.context
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
